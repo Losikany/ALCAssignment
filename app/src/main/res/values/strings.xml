@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="title_about">About ALC</string>
+    <string name="title_profile">My Profile</string>
+    <string name="alc_welcome">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="name">Losikany James</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Kenya</string>
+    <string name="email">Email: sikany.james@gmail.com</string>
+    <string name="phone">Phone Number: +254721939273</string>
+    <string name="slack">Slack Username: @losikanyjames</string>
+</resources>
